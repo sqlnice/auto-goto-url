@@ -1,0 +1,15 @@
+{
+  "name": "自动跳转插件",
+  "action": {
+    "default_title": "自动跳转到链接"
+  },
+  "manifest_version": 3,
+  "version": "0.1",
+  "description": "Turns the page red when you click the icon",
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
