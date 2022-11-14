@@ -44,7 +44,7 @@
 
 - <img width="32px" src="https://www.myzaker.com/favicon.ico" alt="ZAKER" > [ZAKER](https://www.myzaker.com/)
 
-- <img width="32px" src="https://mail.qq.com/zh_CN/htmledition/images/favicon/qqmail_favicon_32h.png)QQ" alt="QQ 邮箱" > [QQ 邮箱](https://mail.qq.com/)
+- <img width="32px" src="https://mail.qq.com/zh_CN/htmledition/images/favicon/qqmail_favicon_32h.png" alt="QQ 邮箱" > [QQ 邮箱](https://mail.qq.com/)
 
 - <img width="32px" src="https://cn-assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico" alt="Gitee" > [Gitee](https://gitee.com/)
 
