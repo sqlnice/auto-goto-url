@@ -73,7 +73,6 @@ const fakes = {
 }
 
 const start = () => {
-  console.log(1)
   for (let key in fakes) {
     const fake = fakes[key]
     if (match(fake.match, fake.enableRegex)) {
